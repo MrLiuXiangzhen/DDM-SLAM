@@ -1,3 +1,3 @@
-# D2-SLAM
+# DDMSLAM
 
 The code is coming soon
